@@ -1,0 +1,7 @@
+/*********************************************************
+ * From Discrete Mathematics with Applications           *
+ * Fifth Edition                                         *
+ * By Susanna Epp                                        *
+ * Copyright (c) 2020, 2011, 2004 Cengage Learning, Inc. *
+ * All rights reserved.                                  *
+ *********************************************************/
