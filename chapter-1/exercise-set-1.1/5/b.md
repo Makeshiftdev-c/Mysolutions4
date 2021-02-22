@@ -1,0 +1,1 @@
+**b**. positive; the reciprocal of *r* is positive
