@@ -1,0 +1,1 @@
+**b**. distinct real numbers *a* and *b*; there is a real number *c*
