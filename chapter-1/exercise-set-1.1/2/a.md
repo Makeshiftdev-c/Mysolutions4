@@ -1,0 +1,1 @@
+**a**. a remainder of 2 when it is divided by 5 and a remainder of 3 when it is divided by 6
