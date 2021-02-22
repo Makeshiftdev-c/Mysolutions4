@@ -1,0 +1,1 @@
+**b**. an integer *n*; *n* is divided by 6 the remainder is 3
