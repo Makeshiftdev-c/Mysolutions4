@@ -1,0 +1,1 @@
+**b**. is negative; the cube root of *s* is negative
