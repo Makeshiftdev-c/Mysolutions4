@@ -1,1 +1,1 @@
-Is there a real number *x* such that <ins>![formula](https://render.githubusercontent.com/render/math?math=\large\color{red}{x^{2}%20=%20-1%20})</ins>?
+Is there a real number *x* such that <ins>*x*</ins><sup>2</sup><ins> = -1</ins>?
