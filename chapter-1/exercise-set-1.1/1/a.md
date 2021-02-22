@@ -1,1 +1,1 @@
-Is there a real number *x* such that <ins>*x*</ins><sup>2</sup><sub><ins> </ins></sub><ins> = -1</ins>?
+Is there a real number *x* such that <ins>*x*</ins><sup>2</sup><ins> = -1</ins>?
