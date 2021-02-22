@@ -1,1 +1,1 @@
-Is there a real number *x* such that <ins>*x*</ins><sup>2</sup><ins> = -1</ins>?
+**a**. *x*<sup>2</sup> = -1
