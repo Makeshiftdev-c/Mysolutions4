@@ -1,0 +1,1 @@
+**c**. All positive integers are less than or equal to their square; The statement appears to be true, for lack of a case that does not satisfy the property.
