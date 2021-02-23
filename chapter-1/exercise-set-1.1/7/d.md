@@ -1,0 +1,1 @@
+**d**. For all real numbers, the modulus of their sum is less than or equal to the sum of their moduli; The statement would appear to be true, for lack of a case that does not satisfy the property. 
