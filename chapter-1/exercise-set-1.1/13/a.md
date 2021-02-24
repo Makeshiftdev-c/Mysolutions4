@@ -1,0 +1,1 @@
+**a**. real number; product with every real number equals zero
