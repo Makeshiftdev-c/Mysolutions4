@@ -1,0 +1,1 @@
+**c**. *s* is the reciprocal for *r*
