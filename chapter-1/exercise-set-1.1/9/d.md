@@ -1,0 +1,1 @@
+**d**. is a quadratic equation; has at most two real solutions
